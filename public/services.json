@@ -1,0 +1,171 @@
+[
+    {
+        "service_id": "01",
+        "name": "Dr. Richard James",
+        "speciality": "General physician",
+        "degree": "MBBS",
+        "img": "https://i.ibb.co.com/NtDMWVt/young-smiling-doctor-with-stethoscope.jpg",
+        "price": "20.00",
+        "experience": "4 Years",
+        "about": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. ",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "02",
+        "name": "Gynecologist",
+        "speciality": "General physician",
+        "degree": "MBBS",
+        "img": "https://i.ibb.co.com/ZYTrWfh/medium-shot-smiley-doctor-with-coat.jpg",
+        "price": "20.00",
+        "experience": "3 Years",
+        "about": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. ",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+
+        "service_id": "03",
+        "name": "Dr. Richard James",
+        "speciality": "Dermatologist",
+        "degree": "MBBS",
+        "img": "https://i.ibb.co.com/yyQV5P3/thoughtful-young-doctor-with-clipboard.jpg",
+        "price": "20.00",
+        "experience": "4 Years",
+        "about": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. ",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+       "service_id": "04",
+        "name": "Dr. Christopher Lee",
+        "speciality": "Pediatricians",
+        "degree": "MBBS",
+        "img": "https://i.ibb.co.com/GsMyHSt/female-doctor-hospital-wearing-mask.jpg",
+        "price": "20.00",
+        "experience": "2 Years",
+        "about": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. ",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+        "service_id": "05",
+        "name": "Dr. Jennifer Garcia",
+        "speciality": "Neurologist",
+        "degree": "MBBS",
+        "img": "https://i.ibb.co.com/ZXk89LR/portrait-doctor.jpg",
+        "price": "20.00",
+        "experience": "4 Years",
+        "about": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. ",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    },
+    {
+       "service_id": "06",
+        "name": "Dr. Andrew Williams ",
+        "speciality": "General physician",
+        "degree": "MBBS",
+        "img": "https://i.ibb.co.com/8BBq1sC/close-up-health-worker.jpg",
+        "price": "20.00",
+        "experience": "4 Years",
+        "about": "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. ",
+        "facility": [
+            {
+                "name": "Instant Car Services",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "24/7 Quality Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Easy Customer Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Quality Cost Service",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+        ]
+    }
+]
